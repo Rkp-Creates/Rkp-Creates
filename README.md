@@ -51,33 +51,25 @@ Building modern, responsive, and user-friendly web applications.
 ---
 
 
+
 ## 🚀 Featured Projects
 
 ### 🧱 MRF Bricks Business Website
-A business website showcasing bricks and business information.
+A responsive business website showcasing bricks and business information.
 
-🔗 [Live Demo](https://mrf-bricks-website.vercel.app/)
+- 💻 Tech Stack: HTML, CSS, JavaScript, React, or the technologies actually used in the project
+- 🔗 [Live Demo](https://mrf-bricks-website.vercel.app/)
 
 ### 🏥 The Body Clinic Website
-A professional clinic website with a clean, user-friendly interface.
+A clinic website designed to present services and information through a clean interface.
 
-🔗 [Live Demo](https://body-clinic-rose.vercel.app/)
+- 💻 Tech Stack: Add the technologies actually used in this project
+- 🔗 [Live Demo](https://body-clinic-rose.vercel.app/)
 
-### 🌐 E-Portal Website
-A web development project focused on an online portal experience.
+---
 
-🔗 [View Repository](YOUR_EPORTAL_REPOSITORY_URL)
+🌱 Currently improving my full-stack development skills and building new projects.
 
-### ♻️ Domestic Waste Management Software
-A software project focused on domestic waste management.
-
-🔗 [View Repository](YOUR_WASTE_PROJECT_REPOSITORY_URL)
-
-
-### ♻️ Domestic Waste Management Software
-A software project focused on domestic waste management.
-
-🔗 [View Repository](ADD_WASTE_PROJECT_REPOSITORY_URL)
 
 ---
 
